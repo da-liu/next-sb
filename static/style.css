@@ -1,0 +1,10 @@
+p {
+  color: red;
+}
+
+div.img {
+    height: 200px;
+    width: 50%;
+    background-color: powderblue;
+    background-image: url('/static/small.png');
+}
